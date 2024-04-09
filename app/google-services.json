@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "446997731680",
+    "firebase_url": "https://fir-71b5e-default-rtdb.firebaseio.com",
+    "project_id": "fir-71b5e",
+    "storage_bucket": "fir-71b5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446997731680:android:ec2156cf99e0672f7fa605",
+        "android_client_info": {
+          "package_name": "com.desarrollomovil.firebase_crud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_QHotokoMGthcochUBf8JRn5ZcGDZvZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446997731680:android:62c8fbd3bd606a807fa605",
+        "android_client_info": {
+          "package_name": "com.etcetera.quotology"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_QHotokoMGthcochUBf8JRn5ZcGDZvZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446997731680:android:f0ad04d366c5e8c77fa605",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_QHotokoMGthcochUBf8JRn5ZcGDZvZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
